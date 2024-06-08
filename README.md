@@ -16,4 +16,5 @@ Este projeto foi desenvolvido como parte de um curso de HTML e CSS proporcionado
 - **CSS**: Linguagem de estilo utilizada para definir a aparência e o layout da página.
 - **Hospedagem**: Projeto hospedado no GitHub Pages, proporcionando acesso fácil e compartilhamento do trabalho.
 
-<a href="https://stenioeric.github.io/projeto_spotify_alura/" target="_blank">Veja o resultado final do projeto</a>
+## Veja o resultado final do projeto
+<a href="https://stenioeric.github.io/projeto_spotify_alura/" target="_blank">Clique aqui</a>
